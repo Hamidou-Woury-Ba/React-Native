@@ -33,3 +33,13 @@ Extensions installées :
     --------------------------------------
     https://fonts.google.com/?query=outfit
     --------------------------------------
+
+# Installer clerck 
+    -----------------------------
+    npm install @clerk/clerk-expo
+    -----------------------------
+
+# Installation d'un cache de jeton pour la persistance
+    ----------------------------------
+    npx expo install expo-secure-store
+    ----------------------------------    
