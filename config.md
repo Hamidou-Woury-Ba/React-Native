@@ -24,3 +24,8 @@ Extensions installées :
     ES7 React/Redux/GraphQL/React-Native snippets
     ---------------------------------------------
 
+# Icons
+    ----------------------------
+    https://icons.expo.fyi/Index
+    ----------------------------
+
