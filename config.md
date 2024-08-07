@@ -29,3 +29,7 @@ Extensions installées :
     https://icons.expo.fyi/Index
     ----------------------------
 
+# Police
+    --------------------------------------
+    https://fonts.google.com/?query=outfit
+    --------------------------------------

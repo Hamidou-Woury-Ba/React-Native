@@ -2,12 +2,9 @@ import React from 'react'
 import { Text, View } from 'react-native'
 
 export default function home () {
-    return (
-      <View style={{
-        paddingTop: 25,
-        paddingLeft: 25
-      }}>
-        <Text style={{color:'red'}}> Home </Text>
-      </View>
-    )
+  return (
+    <View>
+      <Text style={{fontSize:40, fontFamily:'outfit'}}> Home </Text>
+    </View>
+  )
 }
