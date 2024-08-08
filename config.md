@@ -43,3 +43,9 @@ Expo est un framework React Native de production. Expo fournit des outils de dé
     ----------------------------------
     npx expo install expo-secure-store
     ----------------------------------    
+
+# Firebase
+## Créer un compte puis on créé une nouvelle application afin d'y stocker nos données
+    -------------------
+    firebase.google.com
+    -------------------
