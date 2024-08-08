@@ -3,7 +3,7 @@ Mon Parcours d'Apprentissage de React Native. Ce dépôt contient mes projets et
 
 # Expo
 Expo est un framework React Native de production. Expo fournit des outils de développement qui facilitent le développement d’applications, tels que le routage basé sur des fichiers, une bibliothèque standard de modules natifs, et bien plus encore.
-On utilise expo pour la création de notre projet react native avec : 
+## On utilise expo pour la création de notre projet react native avec : 
     --------------------------
     npx create-expo-app@latest
     --------------------------
@@ -19,7 +19,7 @@ On utilise expo pour la création de notre projet react native avec :
     --------------
 
 # Extensions sur vscode pour ce projet :
-Extensions installées : 
+## Extensions installées : 
     ---------------------------------------------
     ES7 React/Redux/GraphQL/React-Native snippets
     ---------------------------------------------
